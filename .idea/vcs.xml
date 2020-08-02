@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bungee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/CommHubLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/LibraryCommons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/MockitoTestCases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/ServerAuditCases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/ServerMail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/ServerReview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/ServerUserProfiles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/ServiceCommunicationBus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/SyncGhyrateMobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Civeio/mailsubservice/mailsubservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenPal2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WhatsAppClone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/messenger4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/messenger4j-spring-boot-quickstart-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new ryde webservice/ryde-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/news-bot-devcaccra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nord login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/offshore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sample-pull" vcs="Git" />
+  </component>
+</project>
