@@ -5,7 +5,7 @@
 # file with configuration.  For more information, see:
 # https://github.com/actions/labeler
 
-name: Labeler
+name: Label
 on: [pull_request]
 
 jobs:
@@ -14,7 +14,9 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/labeler@v2
+    - uses: actions/checkout@master
+    - name: Label
+      uses: kojofosu/label@v1
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-#         configuration-path: .github/labeler.yml
+        configuration-path: .github/workflows/labeler.yml
