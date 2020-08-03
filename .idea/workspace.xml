@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2e2c328-314e-4ebf-8a9e-ca3dac4c3ae5" name="Default Changelist" comment="" />
+    <list default="true" id="d2e2c328-314e-4ebf-8a9e-ca3dac4c3ae5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/labeler.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,5 +36,19 @@
       <updated>1596401883781</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="56" key="MergeDialog" timestamp="1596403215190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="128" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1596403215190" />
+    <state x="395" y="82" width="574" height="566" key="MultipleFileMergeDialog" timestamp="1596403215204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="82" width="574" height="566" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1596403215204" />
+    <state x="46" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596451114895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="46" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596451114895" />
   </component>
 </project>
