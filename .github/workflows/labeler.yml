@@ -14,9 +14,9 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@master
-    - name: Label
-      uses: kojofosu/label@v1
+    - uses: actions/labeler@v2
+#    - name: Label
+#      uses: kojofosu/label@v1
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        configuration-path: .github/workflows/labeler.yml
+#        configuration-path: labeler.yml
