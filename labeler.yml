@@ -1,6 +1,3 @@
-name: labeler
-on: push
-jobs:
-  labeler:
-    runs-on: windows-latest
+label uno:
+  - src/*
 
